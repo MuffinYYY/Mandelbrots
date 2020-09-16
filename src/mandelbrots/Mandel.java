@@ -25,6 +25,7 @@ int b=0;
 double creal;
 double cimag;
 double zmodulis;
+int krasa;
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
@@ -70,7 +71,10 @@ double zmodulis;
                     i=i+1;
                 }while(i<100&& zmodulis<=m);
                     if(i>100){
+                        krasa=();
                         
+                    }else{
+                        krasa=f(i);
                     }
             }
         }
