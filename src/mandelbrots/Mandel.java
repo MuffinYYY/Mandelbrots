@@ -70,7 +70,7 @@ double zmodulis;
                     i=i+1;
                 }while(i<100&& zmodulis<=m);
                     if(i>100){
-                        then
+                        thenh
                     }
             }
         }
